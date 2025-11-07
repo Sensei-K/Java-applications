@@ -1,7 +1,11 @@
 public class StaticMethod{
 	
 	public static void main(String[] args){
-		StaticMethod.addition();
+		addition();
+		addition();
+		addition();
+		addition();
+		
 	}
 	public static void addition(){
 		int num1 = 50;
